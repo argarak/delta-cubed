@@ -4,11 +4,13 @@
 
 *Delta-cubed* is a HTML5 and JS game that will combine elements of a turn-based strategy battle system with a RPG.
 
-*Delta-cubed* uses the [jsiso](https://github.com/wardi/urwid) library, however, more libraries are used.
+*Delta-cubed* uses the [jsiso](https://github.com/beakable/isometric) library, however, more libraries are used.
+
+The three main characters will be shapes (triangle/tetrahedron, circle/sphere, square/cube).
 
 ## Playing
 
-The game is currently avaliable at [jsiso](https://github.com/wardi/urwid) however, it is currently under development so don't expect much currently.
+The game is currently avaliable at []() however, it is currently under development so don't expect much currently.
 
 ## Contributing
 
