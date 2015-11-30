@@ -1,0 +1,24 @@
+body {
+    background: #1a1a1a;
+}
+
+#title {
+    font-family: sans-serif;
+    color: #FFF;
+    font-size: 70px;
+    text-align: center;
+    margin: 50px;
+    height: 120px;
+}
+
+#list {
+    text-align: center;
+    list-style-type: none;
+}
+
+.btn-default {
+    width: 300px;
+    font-size: 45px;
+    margin: 20px;
+}
+

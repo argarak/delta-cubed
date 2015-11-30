@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Shape Game!</title>
+    <script data-main="libraries/config.js" src="libraries/requirejs/require.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <link href="https://bootswatch.com/darkly/bootstrap.min.css" rel="stylesheet"/>
+    <script type="text/javascript" src="scripts/game.js"></script>
+    <link href="menu.css" rel="stylesheet"/>
+    <!-- Import stuff -->
+  </head>
+  <body>
+    <audio class="menu" src="/shape_game/music/zulu.ogg" autoplay></audio>
+    <h1 class="btn-primary menu" id="title">Game!</h1>
+    <ul class="menu list-unstyled" id="list">
+	<li><button class="menu btn btn-default btn-success" id="play" onclick="begin()" type="button">Play</button></li>
+	<li><button class="menu btn btn-default btn-info" id="info" type="button">Info</button></li>
+	<li><button class="menu btn btn-default btn-danger" id="src" type="button">Source</button></li>
+	<li><button class="menu btn btn-default btn-warning" id="credits" type="button">Credits</button></li>
+    </ul>
+    <p class="menu" id="out"></p>
+  </body>
+</html>
