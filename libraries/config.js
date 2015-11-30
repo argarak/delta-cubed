@@ -18,7 +18,7 @@
 */
 
 requirejs.config({
-    baseUrl: "/shape_game/libraries/",
+    baseUrl: "/delta-cubed/libraries/",
     paths: {
         text: 'plugins/text', //text is required
 	json: 'plugins/json' //alias to plugin
