@@ -10,7 +10,7 @@ The three main characters will be shapes (triangle/tetrahedron, circle/sphere, s
 
 ## Playing
 
-The game is currently avaliable at []() however, it is currently under development so don't expect much currently.
+The game is currently avaliable at [http://argarak.github.io/delta-cubed](http://argarak.github.io/delta-cubed) however, it is currently under development so don't expect much currently.
 
 ## Contributing
 
