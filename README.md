@@ -1,5 +1,7 @@
 # delta-cubed
 
+## NOTICE: This project is abandoned, I will no longer work on it for the time being. Don't expect any development.
+
 ## Summary
 
 *Delta-cubed* is a HTML5 and JS game that will combine elements of a turn-based strategy battle system with a RPG.
